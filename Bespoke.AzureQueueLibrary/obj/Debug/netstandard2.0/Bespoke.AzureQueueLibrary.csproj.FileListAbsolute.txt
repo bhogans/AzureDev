@@ -1,0 +1,9 @@
+C:\Users\bobby\AzureDevelopment\Bespoke.AzureQueueLibrary\bin\Debug\netstandard2.0\Bespoke.AzureQueueLibrary.deps.json
+C:\Users\bobby\AzureDevelopment\Bespoke.AzureQueueLibrary\bin\Debug\netstandard2.0\Bespoke.AzureQueueLibrary.dll
+C:\Users\bobby\AzureDevelopment\Bespoke.AzureQueueLibrary\bin\Debug\netstandard2.0\Bespoke.AzureQueueLibrary.pdb
+C:\Users\bobby\AzureDevelopment\Bespoke.AzureQueueLibrary\obj\Debug\netstandard2.0\Bespoke.AzureQueueLibrary.csprojAssemblyReference.cache
+C:\Users\bobby\AzureDevelopment\Bespoke.AzureQueueLibrary\obj\Debug\netstandard2.0\Bespoke.AzureQueueLibrary.AssemblyInfoInputs.cache
+C:\Users\bobby\AzureDevelopment\Bespoke.AzureQueueLibrary\obj\Debug\netstandard2.0\Bespoke.AzureQueueLibrary.AssemblyInfo.cs
+C:\Users\bobby\AzureDevelopment\Bespoke.AzureQueueLibrary\obj\Debug\netstandard2.0\Bespoke.AzureQueueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bobby\AzureDevelopment\Bespoke.AzureQueueLibrary\obj\Debug\netstandard2.0\Bespoke.AzureQueueLibrary.dll
+C:\Users\bobby\AzureDevelopment\Bespoke.AzureQueueLibrary\obj\Debug\netstandard2.0\Bespoke.AzureQueueLibrary.pdb
